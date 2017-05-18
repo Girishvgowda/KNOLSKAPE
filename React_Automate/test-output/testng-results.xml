@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16160" started-at="2017-05-18T09:39:11Z" finished-at="2017-05-18T09:39:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16160" started-at="2017-05-18T09:39:11Z" finished-at="2017-05-18T09:39:27Z">
+      <class name="Script.loginScript">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Script.loginScript@6a2bcfcb]" name="setup" is-config="true" duration-ms="4080" started-at="2017-05-18T15:09:11Z" finished-at="2017-05-18T15:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AddUseNames()[pri:1, instance:Script.loginScript@6a2bcfcb]" name="AddUseNames" duration-ms="962" started-at="2017-05-18T15:09:15Z" finished-at="2017-05-18T15:09:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddUseNames -->
+        <test-method status="PASS" signature="complete()[pri:2, instance:Script.loginScript@6a2bcfcb]" name="complete" duration-ms="1297" started-at="2017-05-18T15:09:16Z" finished-at="2017-05-18T15:09:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complete -->
+        <test-method status="PASS" signature="Completed()[pri:3, instance:Script.loginScript@6a2bcfcb]" name="Completed" duration-ms="1072" started-at="2017-05-18T15:09:17Z" finished-at="2017-05-18T15:09:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Completed -->
+        <test-method status="PASS" signature="Active()[pri:4, instance:Script.loginScript@6a2bcfcb]" name="Active" duration-ms="1070" started-at="2017-05-18T15:09:19Z" finished-at="2017-05-18T15:09:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Active -->
+        <test-method status="PASS" signature="All()[pri:5, instance:Script.loginScript@6a2bcfcb]" name="All" duration-ms="1069" started-at="2017-05-18T15:09:20Z" finished-at="2017-05-18T15:09:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- All -->
+        <test-method status="PASS" signature="ClearCompleted()[pri:6, instance:Script.loginScript@6a2bcfcb]" name="ClearCompleted" duration-ms="1066" started-at="2017-05-18T15:09:21Z" finished-at="2017-05-18T15:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearCompleted -->
+        <test-method status="PASS" signature="editNames()[pri:7, instance:Script.loginScript@6a2bcfcb]" name="editNames" duration-ms="2202" started-at="2017-05-18T15:09:22Z" finished-at="2017-05-18T15:09:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editNames -->
+        <test-method status="PASS" signature="Delete()[pri:8, instance:Script.loginScript@6a2bcfcb]" name="Delete" duration-ms="3304" started-at="2017-05-18T15:09:24Z" finished-at="2017-05-18T15:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:Script.loginScript@6a2bcfcb]" name="quit" is-config="true" duration-ms="7" started-at="2017-05-18T15:09:27Z" finished-at="2017-05-18T15:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Script.loginScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
